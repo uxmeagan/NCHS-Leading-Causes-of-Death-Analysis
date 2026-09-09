@@ -1,5 +1,6 @@
 -- ============================================================
 -- NCHS Leading Causes of Death Analysis
+-- Data Validation
 -- ============================================================
 
 -- Validate the structure and quality of the imported NCHS dataset
