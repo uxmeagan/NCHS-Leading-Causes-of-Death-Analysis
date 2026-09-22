@@ -249,7 +249,9 @@ This analysis demonstrates the importance of considering both national trends an
 
 ![State-Level Heart Disease Decreases](outputs/charts/heart_disease_state_decreases.png)
 
-An interactive geographic version of this analysis is available in [`heart_disease_mortality_map.html`](outputs/charts/heart_disease_mortality_map.html).
+![heart_disease_mortality_map](outputs/charts/heart_disease_mortality_map.png)
+
+An interactive geographic version of the map analysis is available in [`heart_disease_mortality_map.html`](outputs/charts/heart_disease_mortality_map.html).
 
 ---
 
