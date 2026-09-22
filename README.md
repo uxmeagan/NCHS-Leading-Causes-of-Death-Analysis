@@ -209,7 +209,7 @@ Ranking reflects the relative position of causes compared with one another, so a
 
 ### Visualization
 
-![Ranking of Leading Causes](outputs/charts/ranking_of_leading_causes.png)
+![Ranking of Leading Causes](outputs/charts/mortality_rate_rank_change.png)
 
 ---
 
